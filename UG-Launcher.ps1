@@ -20,7 +20,7 @@ $AppVersion = '1.0'
 # 1) same folder as this launcher (local / after download)
 # 2) MAIN_URL remote raw
 $MainFileName = 'Project UndergroundPrime.ps1'
-$MainUrl = ''  # e.g. 'https://gitlab.com/USER/REPO/-/raw/main/Project%20UndergroundPrime.ps1'
+$MainUrl = 'https://raw.githubusercontent.com/mik68982-prog/underground-prime/main/Project%20UndergroundPrime.ps1'
 
 $ApiBase = 'https://keyauth.win/api/1.2/'
 # =====================================================================
